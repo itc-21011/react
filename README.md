@@ -1,3 +1,3 @@
-# paiza
+## paiza
 
-![paiza](../Pictures/p3.png)
+![paiza](~/Pictures/p3.png)
