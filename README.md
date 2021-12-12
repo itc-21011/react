@@ -1,5 +1,5 @@
 # react
 
-## paiza
+## Paiza
 
-![paiza](./screen/p3.png)
+![Paiza](./screen/p3.png)
